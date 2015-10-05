@@ -25,10 +25,10 @@
 	"dependencies": {
 		"lodash": "~2.2.1",
 		"jsxgettext": "~0.8.1",
-		"async": "^0.7.0"
+		"async": "^1.4.2"
 	},
 	"devDependencies": {
-		"grunt-contrib-jshint": "~0.7.2",
+		"grunt-contrib-jshint": "~0.11.3",
 		"grunt": "~0.4.2"
 	},
 	"peerDependencies": {
